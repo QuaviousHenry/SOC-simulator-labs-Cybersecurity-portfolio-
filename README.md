@@ -23,3 +23,11 @@ A finance analyst at Halcyon Wealth Partners followed a recycled Discord invite 
 * Gained hands-on experience tracing social engineering vectors (Discord lures) using proxy and firewall logs.
 * Learned how to identify initial loader execution and map out C2 communication channels.
 * Built foundational incident response workflows applicable to entry-level SOC roles.
+
+## Lab Details
+* **Platform:** [SOC Simulator](https://www.socsimulator.com/training-operations/discord-invite-hijack-clickfix-loader-walkthrough)
+* **Operation:** [Hijacked Discord Invite to ClickFix Loader: Tracing the Lure](PASTE_YOUR_EXACT_LAB_URL_HERE)
+* **Difficulty:** Easy
+* **Core Skills:** SIEM, Firewall (FW) Analysis, Threat Intelligence (INTEL)
+* **Status:** Completed (100%)
+
