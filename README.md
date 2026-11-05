@@ -31,3 +31,4 @@ A finance analyst at Halcyon Wealth Partners followed a recycled Discord invite 
 * **Core Skills:** SIEM, Firewall (FW) Analysis, Threat Intelligence (INTEL)
 * **Status:** Completed (100%)
 
+SOC-LAB-COMPLETION_Firefox.jpg
