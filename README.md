@@ -25,10 +25,10 @@ A finance analyst at Halcyon Wealth Partners followed a recycled Discord invite 
 * Built foundational incident response workflows applicable to entry-level SOC roles.
 
 ## Lab Details
-* **Platform:** [SOC Simulator](https://www.socsimulator.com/training-operations/discord-invite-hijack-clickfix-loader-walkthrough)
-* **Operation:** [Hijacked Discord Invite to ClickFix Loader: Tracing the Lure](PASTE_YOUR_EXACT_LAB_URL_HERE)
+* **Platform:** [SOC Simulator]
+* **Operation:** [Hijacked Discord Invite to ClickFix Loader: Tracing the Lure](https://www.socsimulator.com/training-operations/discord-invite-hijack-clickfix-loader-walkthrough)
 * **Difficulty:** Easy
 * **Core Skills:** SIEM, Firewall (FW) Analysis, Threat Intelligence (INTEL)
 * **Status:** Completed (100%)
 
-SOC-LAB-COMPLETION_Firefox.jpg
+![SOC Simulator Completion](./SOC-LAB-COMPLETION_Firefox.jpg).
