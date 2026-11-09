@@ -56,5 +56,5 @@ An accounts-payable clerk opened a spoofed voicemail-notification email containi
 * Learned how to trace multi-stage execution chains from email artifacts to VBA macros and PowerShell.
 * Strengthened incident response skills using XDR and SIEM telemetry for threat hunting.
 
-![Bumblebee Lab Completion](./SOC-LAB-BUMBLEBEE.jpeg)
+![Bumblebee Lab Completion](./SOC_LAB_BUMBLEBEE.jpeg)
 
