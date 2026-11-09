@@ -32,3 +32,29 @@ A finance analyst at Halcyon Wealth Partners followed a recycled Discord invite 
 * **Status:** Completed (100%)
 
 ![SOC Simulator Completion](./SOC-LAB-COMPLETION_Firefox.jpg).
+---
+
+## SOC Simulator: Bumblebee Returns: The Voicemail VBA Macro
+
+### Lab Details
+* **Platform:** SOC Simulator
+* **Operation:** Bumblebee Returns: The Voicemail VBA Macro
+* **Difficulty:** Easy
+* **Core Skills:** XDR, SIEM, Firewall (FW), Email, Threat Intelligence (INTEL)
+* **Status:** Completed (100%)
+
+### Scenario Summary
+An accounts-payable clerk opened a spoofed voicemail-notification email containing a OneDrive link. A malicious Word macro quietly pulled a loader onto the host, initiating a chain from a phishing message through VBA macro execution, PowerShell, and signed-binary proxy execution to the Bumblebee loader's TLS command-and-control (C2).
+
+### Investigation Steps & Findings
+1. **Triage the Alert:** Investigated an anomalous voicemail-notification email pointing to a cloud file-sharing service within the Grove Park Freight & Logistics environment
+2. **Execution Analysis:** Traced the VBA macro and PowerShell execution flow triggered by the cloud document.
+3. **Proxy & C2 Tracking:** Followed binary proxy execution to isolate the TLS command-and-control communication channels used by the Bumblebee loader.
+
+### Key Takeaways
+* Gained hands-on experience analyzing email-based phishing vectors and malicious document attachments.
+* Learned how to trace multi-stage execution chains from email artifacts to VBA macros and PowerShell.
+* Strengthened incident response skills using XDR and SIEM telemetry for threat hunting.
+
+![Bumblebee Lab Completion](./SOC-LAB-BUMBLEBEE.jpeg)
+
